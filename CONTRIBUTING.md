@@ -22,7 +22,6 @@ Please limit changes to only one or a few items per pull request.
 ## 📋 Required Format
 
 Your pull request must follow this format:
-
 ```
 Item: <>
 Current Buy: <>
