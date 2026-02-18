@@ -1,0 +1,4519 @@
+worth:
+  acacia_boat:
+    buy: 0
+    sell: -1
+  acacia_button:
+    buy: 0
+    sell: -1
+  acacia_chest_boat:
+    buy: 0
+    sell: -1
+  acacia_door:
+    buy: 0
+    sell: -1
+  acacia_fence:
+    buy: 0
+    sell: -1
+  acacia_fence_gate:
+    buy: 0
+    sell: -1
+  acacia_hanging_sign:
+    buy: 0
+    sell: -1
+  acacia_leaves:
+    buy: 0
+    sell: -1
+  acacia_log:
+    buy: 0
+    sell: -1
+  acacia_planks:
+    buy: 0
+    sell: -1
+  acacia_pressure_plate:
+    buy: 0
+    sell: -1
+  acacia_sapling:
+    buy: 0
+    sell: -1
+  acacia_shelf:
+    buy: 0
+    sell: -1
+  acacia_sign:
+    buy: 0
+    sell: -1
+  acacia_slab:
+    buy: 0
+    sell: -1
+  acacia_stairs:
+    buy: 0
+    sell: -1
+  acacia_trapdoor:
+    buy: 0
+    sell: -1
+  acacia_wood:
+    buy: 0
+    sell: -1
+  activator_rail:
+    buy: 0
+    sell: -1
+  air:
+    buy: 0
+    sell: -1
+  allay_spawn_egg:
+    buy: 0
+    sell: -1
+  allium:
+    buy: 0
+    sell: -1
+  amethyst_block:
+    buy: 0
+    sell: -1
+  amethyst_cluster:
+    buy: 0
+    sell: -1
+  amethyst_shard:
+    buy: 0
+    sell: -1
+  ancient_debris:
+    buy: 0
+    sell: -1
+  andesite:
+    buy: 0
+    sell: -1
+  andesite_slab:
+    buy: 0
+    sell: -1
+  andesite_stairs:
+    buy: 0
+    sell: -1
+  andesite_wall:
+    buy: 0
+    sell: -1
+  angler_pottery_sherd:
+    buy: 0
+    sell: -1
+  anvil:
+    buy: 0
+    sell: -1
+  apple:
+    buy: 0
+    sell: -1
+  archer_pottery_sherd:
+    buy: 0
+    sell: -1
+  armadillo_scute:
+    buy: 0
+    sell: -1
+  armadillo_spawn_egg:
+    buy: 0
+    sell: -1
+  armor_stand:
+    buy: 0
+    sell: -1
+  arms_up_pottery_sherd:
+    buy: 0
+    sell: -1
+  arrow:
+    buy: 0
+    sell: -1
+  axolotl_bucket:
+    buy: 0
+    sell: -1
+  axolotl_spawn_egg:
+    buy: 0
+    sell: -1
+  azalea:
+    buy: 0
+    sell: -1
+  azalea_leaves:
+    buy: 0
+    sell: -1
+  azure_bluet:
+    buy: 0
+    sell: -1
+  baked_potato:
+    buy: 0
+    sell: -1
+  bamboo:
+    buy: 0
+    sell: -1
+  bamboo_block:
+    buy: 0
+    sell: -1
+  bamboo_button:
+    buy: 0
+    sell: -1
+  bamboo_chest_raft:
+    buy: 0
+    sell: -1
+  bamboo_door:
+    buy: 0
+    sell: -1
+  bamboo_fence:
+    buy: 0
+    sell: -1
+  bamboo_fence_gate:
+    buy: 0
+    sell: -1
+  bamboo_hanging_sign:
+    buy: 0
+    sell: -1
+  bamboo_mosaic:
+    buy: 0
+    sell: -1
+  bamboo_mosaic_slab:
+    buy: 0
+    sell: -1
+  bamboo_mosaic_stairs:
+    buy: 0
+    sell: -1
+  bamboo_planks:
+    buy: 0
+    sell: -1
+  bamboo_pressure_plate:
+    buy: 0
+    sell: -1
+  bamboo_raft:
+    buy: 0
+    sell: -1
+  bamboo_shelf:
+    buy: 0
+    sell: -1
+  bamboo_sign:
+    buy: 0
+    sell: -1
+  bamboo_slab:
+    buy: 0
+    sell: -1
+  bamboo_stairs:
+    buy: 0
+    sell: -1
+  bamboo_trapdoor:
+    buy: 0
+    sell: -1
+  barrel:
+    buy: 0
+    sell: -1
+  barrier:
+    buy: 0
+    sell: -1
+  basalt:
+    buy: 0
+    sell: -1
+  bat_spawn_egg:
+    buy: 0
+    sell: -1
+  beacon:
+    buy: 0
+    sell: -1
+  bedrock:
+    buy: 0
+    sell: -1
+  bee_nest:
+    buy: 0
+    sell: -1
+  bee_spawn_egg:
+    buy: 0
+    sell: -1
+  beef:
+    buy: 0
+    sell: -1
+  beehive:
+    buy: 0
+    sell: -1
+  beetroot:
+    buy: 0
+    sell: -1
+  beetroot_seeds:
+    buy: 0
+    sell: -1
+  beetroot_soup:
+    buy: 0
+    sell: -1
+  bell:
+    buy: 0
+    sell: -1
+  big_dripleaf:
+    buy: 0
+    sell: -1
+  birch_boat:
+    buy: 0
+    sell: -1
+  birch_button:
+    buy: 0
+    sell: -1
+  birch_chest_boat:
+    buy: 0
+    sell: -1
+  birch_door:
+    buy: 0
+    sell: -1
+  birch_fence:
+    buy: 0
+    sell: -1
+  birch_fence_gate:
+    buy: 0
+    sell: -1
+  birch_hanging_sign:
+    buy: 0
+    sell: -1
+  birch_leaves:
+    buy: 0
+    sell: -1
+  birch_log:
+    buy: 0
+    sell: -1
+  birch_planks:
+    buy: 0
+    sell: -1
+  birch_pressure_plate:
+    buy: 0
+    sell: -1
+  birch_sapling:
+    buy: 0
+    sell: -1
+  birch_shelf:
+    buy: 0
+    sell: -1
+  birch_sign:
+    buy: 0
+    sell: -1
+  birch_slab:
+    buy: 0
+    sell: -1
+  birch_stairs:
+    buy: 0
+    sell: -1
+  birch_trapdoor:
+    buy: 0
+    sell: -1
+  birch_wood:
+    buy: 0
+    sell: -1
+  black_banner:
+    buy: 0
+    sell: -1
+  black_bed:
+    buy: 0
+    sell: -1
+  black_bundle:
+    buy: 0
+    sell: -1
+  black_candle:
+    buy: 0
+    sell: -1
+  black_carpet:
+    buy: 0
+    sell: -1
+  black_concrete:
+    buy: 0
+    sell: -1
+  black_concrete_powder:
+    buy: 0
+    sell: -1
+  black_dye:
+    buy: 0
+    sell: -1
+  black_glazed_terracotta:
+    buy: 0
+    sell: -1
+  black_harness:
+    buy: 0
+    sell: -1
+  black_shulker_box:
+    buy: 0
+    sell: -1
+  black_stained_glass:
+    buy: 0
+    sell: -1
+  black_stained_glass_pane:
+    buy: 0
+    sell: -1
+  black_terracotta:
+    buy: 0
+    sell: -1
+  black_wool:
+    buy: 0
+    sell: -1
+  blackstone:
+    buy: 0
+    sell: -1
+  blackstone_slab:
+    buy: 0
+    sell: -1
+  blackstone_stairs:
+    buy: 0
+    sell: -1
+  blackstone_wall:
+    buy: 0
+    sell: -1
+  blade_pottery_sherd:
+    buy: 0
+    sell: -1
+  blast_furnace:
+    buy: 0
+    sell: -1
+  blaze_powder:
+    buy: 0
+    sell: -1
+  blaze_rod:
+    buy: 0
+    sell: -1
+  blaze_spawn_egg:
+    buy: 0
+    sell: -1
+  blue_banner:
+    buy: 0
+    sell: -1
+  blue_bed:
+    buy: 0
+    sell: -1
+  blue_bundle:
+    buy: 0
+    sell: -1
+  blue_candle:
+    buy: 0
+    sell: -1
+  blue_carpet:
+    buy: 0
+    sell: -1
+  blue_concrete:
+    buy: 0
+    sell: -1
+  blue_concrete_powder:
+    buy: 0
+    sell: -1
+  blue_dye:
+    buy: 0
+    sell: -1
+  blue_egg:
+    buy: 0
+    sell: -1
+  blue_glazed_terracotta:
+    buy: 0
+    sell: -1
+  blue_harness:
+    buy: 0
+    sell: -1
+  blue_ice:
+    buy: 0
+    sell: -1
+  blue_orchid:
+    buy: 0
+    sell: -1
+  blue_shulker_box:
+    buy: 0
+    sell: -1
+  blue_stained_glass:
+    buy: 0
+    sell: -1
+  blue_stained_glass_pane:
+    buy: 0
+    sell: -1
+  blue_terracotta:
+    buy: 0
+    sell: -1
+  blue_wool:
+    buy: 0
+    sell: -1
+  bogged_spawn_egg:
+    buy: 0
+    sell: -1
+  bolt_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  bone:
+    buy: 0
+    sell: -1
+  bone_block:
+    buy: 0
+    sell: -1
+  bone_meal:
+    buy: 0
+    sell: -1
+  book:
+    buy: 0
+    sell: -1
+  bookshelf:
+    buy: 0
+    sell: -1
+  bordure_indented_banner_pattern:
+    buy: 0
+    sell: -1
+  bow:
+    buy: 0
+    sell: -1
+  bowl:
+    buy: 0
+    sell: -1
+  brain_coral:
+    buy: 0
+    sell: -1
+  brain_coral_block:
+    buy: 0
+    sell: -1
+  brain_coral_fan:
+    buy: 0
+    sell: -1
+  bread:
+    buy: 0
+    sell: -1
+  breeze_rod:
+    buy: 0
+    sell: -1
+  breeze_spawn_egg:
+    buy: 0
+    sell: -1
+  brewer_pottery_sherd:
+    buy: 0
+    sell: -1
+  brewing_stand:
+    buy: 0
+    sell: -1
+  brick:
+    buy: 0
+    sell: -1
+  brick_slab:
+    buy: 0
+    sell: -1
+  brick_stairs:
+    buy: 0
+    sell: -1
+  brick_wall:
+    buy: 0
+    sell: -1
+  bricks:
+    buy: 0
+    sell: -1
+  brown_banner:
+    buy: 0
+    sell: -1
+  brown_bed:
+    buy: 0
+    sell: -1
+  brown_bundle:
+    buy: 0
+    sell: -1
+  brown_candle:
+    buy: 0
+    sell: -1
+  brown_carpet:
+    buy: 0
+    sell: -1
+  brown_concrete:
+    buy: 0
+    sell: -1
+  brown_concrete_powder:
+    buy: 0
+    sell: -1
+  brown_dye:
+    buy: 0
+    sell: -1
+  brown_egg:
+    buy: 0
+    sell: -1
+  brown_glazed_terracotta:
+    buy: 0
+    sell: -1
+  brown_harness:
+    buy: 0
+    sell: -1
+  brown_mushroom:
+    buy: 0
+    sell: -1
+  brown_mushroom_block:
+    buy: 0
+    sell: -1
+  brown_shulker_box:
+    buy: 0
+    sell: -1
+  brown_stained_glass:
+    buy: 0
+    sell: -1
+  brown_stained_glass_pane:
+    buy: 0
+    sell: -1
+  brown_terracotta:
+    buy: 0
+    sell: -1
+  brown_wool:
+    buy: 0
+    sell: -1
+  brush:
+    buy: 0
+    sell: -1
+  bubble_coral:
+    buy: 0
+    sell: -1
+  bubble_coral_block:
+    buy: 0
+    sell: -1
+  bubble_coral_fan:
+    buy: 0
+    sell: -1
+  bucket:
+    buy: 0
+    sell: -1
+  budding_amethyst:
+    buy: 0
+    sell: -1
+  bundle:
+    buy: 0
+    sell: -1
+  burn_pottery_sherd:
+    buy: 0
+    sell: -1
+  bush:
+    buy: 0
+    sell: -1
+  cactus:
+    buy: 0
+    sell: -1
+  cactus_flower:
+    buy: 0
+    sell: -1
+  cake:
+    buy: 0
+    sell: -1
+  calcite:
+    buy: 0
+    sell: -1
+  calibrated_sculk_sensor:
+    buy: 0
+    sell: -1
+  camel_husk_spawn_egg:
+    buy: 0
+    sell: -1
+  camel_spawn_egg:
+    buy: 0
+    sell: -1
+  campfire:
+    buy: 0
+    sell: -1
+  candle:
+    buy: 0
+    sell: -1
+  carrot:
+    buy: 0
+    sell: -1
+  carrot_on_a_stick:
+    buy: 0
+    sell: -1
+  cartography_table:
+    buy: 0
+    sell: -1
+  carved_pumpkin:
+    buy: 0
+    sell: -1
+  cat_spawn_egg:
+    buy: 0
+    sell: -1
+  cauldron:
+    buy: 0
+    sell: -1
+  cave_spider_spawn_egg:
+    buy: 0
+    sell: -1
+  chain_command_block:
+    buy: 0
+    sell: -1
+  chainmail_boots:
+    buy: 0
+    sell: -1
+  chainmail_chestplate:
+    buy: 0
+    sell: -1
+  chainmail_helmet:
+    buy: 0
+    sell: -1
+  chainmail_leggings:
+    buy: 0
+    sell: -1
+  charcoal:
+    buy: 0
+    sell: -1
+  cherry_boat:
+    buy: 0
+    sell: -1
+  cherry_button:
+    buy: 0
+    sell: -1
+  cherry_chest_boat:
+    buy: 0
+    sell: -1
+  cherry_door:
+    buy: 0
+    sell: -1
+  cherry_fence:
+    buy: 0
+    sell: -1
+  cherry_fence_gate:
+    buy: 0
+    sell: -1
+  cherry_hanging_sign:
+    buy: 0
+    sell: -1
+  cherry_leaves:
+    buy: 0
+    sell: -1
+  cherry_log:
+    buy: 0
+    sell: -1
+  cherry_planks:
+    buy: 0
+    sell: -1
+  cherry_pressure_plate:
+    buy: 0
+    sell: -1
+  cherry_sapling:
+    buy: 0
+    sell: -1
+  cherry_shelf:
+    buy: 0
+    sell: -1
+  cherry_sign:
+    buy: 0
+    sell: -1
+  cherry_slab:
+    buy: 0
+    sell: -1
+  cherry_stairs:
+    buy: 0
+    sell: -1
+  cherry_trapdoor:
+    buy: 0
+    sell: -1
+  cherry_wood:
+    buy: 0
+    sell: -1
+  chest:
+    buy: 0
+    sell: -1
+  chest_minecart:
+    buy: 0
+    sell: -1
+  chicken:
+    buy: 0
+    sell: -1
+  chicken_spawn_egg:
+    buy: 0
+    sell: -1
+  chipped_anvil:
+    buy: 0
+    sell: -1
+  chiseled_bookshelf:
+    buy: 0
+    sell: -1
+  chiseled_copper:
+    buy: 0
+    sell: -1
+  chiseled_deepslate:
+    buy: 0
+    sell: -1
+  chiseled_nether_bricks:
+    buy: 0
+    sell: -1
+  chiseled_polished_blackstone:
+    buy: 0
+    sell: -1
+  chiseled_quartz_block:
+    buy: 0
+    sell: -1
+  chiseled_red_sandstone:
+    buy: 0
+    sell: -1
+  chiseled_resin_bricks:
+    buy: 0
+    sell: -1
+  chiseled_sandstone:
+    buy: 0
+    sell: -1
+  chiseled_stone_bricks:
+    buy: 0
+    sell: -1
+  chiseled_tuff:
+    buy: 0
+    sell: -1
+  chiseled_tuff_bricks:
+    buy: 0
+    sell: -1
+  chorus_flower:
+    buy: 0
+    sell: -1
+  chorus_fruit:
+    buy: 0
+    sell: -1
+  chorus_plant:
+    buy: 0
+    sell: -1
+  clay:
+    buy: 0
+    sell: -1
+  clay_ball:
+    buy: 0
+    sell: -1
+  clock:
+    buy: 0
+    sell: -1
+  closed_eyeblossom:
+    buy: 0
+    sell: -1
+  coal:
+    buy: 0
+    sell: -1
+  coal_block:
+    buy: 0
+    sell: -1
+  coal_ore:
+    buy: 0
+    sell: -1
+  coarse_dirt:
+    buy: 0
+    sell: -1
+  coast_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  cobbled_deepslate:
+    buy: 0
+    sell: -1
+  cobbled_deepslate_slab:
+    buy: 0
+    sell: -1
+  cobbled_deepslate_stairs:
+    buy: 0
+    sell: -1
+  cobbled_deepslate_wall:
+    buy: 0
+    sell: -1
+  cobblestone:
+    buy: 0
+    sell: -1
+  cobblestone_slab:
+    buy: 0
+    sell: -1
+  cobblestone_stairs:
+    buy: 0
+    sell: -1
+  cobblestone_wall:
+    buy: 0
+    sell: -1
+  cobweb:
+    buy: 0
+    sell: -1
+  cocoa_beans:
+    buy: 0
+    sell: -1
+  cod:
+    buy: 0
+    sell: -1
+  cod_bucket:
+    buy: 0
+    sell: -1
+  cod_spawn_egg:
+    buy: 0
+    sell: -1
+  command_block:
+    buy: 0
+    sell: -1
+  command_block_minecart:
+    buy: 0
+    sell: -1
+  comparator:
+    buy: 0
+    sell: -1
+  compass:
+    buy: 0
+    sell: -1
+  composter:
+    buy: 0
+    sell: -1
+  conduit:
+    buy: 0
+    sell: -1
+  cooked_beef:
+    buy: 0
+    sell: -1
+  cooked_chicken:
+    buy: 0
+    sell: -1
+  cooked_cod:
+    buy: 0
+    sell: -1
+  cooked_mutton:
+    buy: 0
+    sell: -1
+  cooked_porkchop:
+    buy: 0
+    sell: -1
+  cooked_rabbit:
+    buy: 0
+    sell: -1
+  cooked_salmon:
+    buy: 0
+    sell: -1
+  cookie:
+    buy: 0
+    sell: -1
+  copper_axe:
+    buy: 0
+    sell: -1
+  copper_bars:
+    buy: 0
+    sell: -1
+  copper_block:
+    buy: 0
+    sell: -1
+  copper_boots:
+    buy: 0
+    sell: -1
+  copper_bulb:
+    buy: 0
+    sell: -1
+  copper_chain:
+    buy: 0
+    sell: -1
+  copper_chest:
+    buy: 0
+    sell: -1
+  copper_chestplate:
+    buy: 0
+    sell: -1
+  copper_door:
+    buy: 0
+    sell: -1
+  copper_golem_spawn_egg:
+    buy: 0
+    sell: -1
+  copper_golem_statue:
+    buy: 0
+    sell: -1
+  copper_grate:
+    buy: 0
+    sell: -1
+  copper_helmet:
+    buy: 0
+    sell: -1
+  copper_hoe:
+    buy: 0
+    sell: -1
+  copper_horse_armor:
+    buy: 0
+    sell: -1
+  copper_ingot:
+    buy: 0
+    sell: -1
+  copper_lantern:
+    buy: 0
+    sell: -1
+  copper_leggings:
+    buy: 0
+    sell: -1
+  copper_nautilus_armor:
+    buy: 0
+    sell: -1
+  copper_nugget:
+    buy: 0
+    sell: -1
+  copper_ore:
+    buy: 0
+    sell: -1
+  copper_pickaxe:
+    buy: 0
+    sell: -1
+  copper_shovel:
+    buy: 0
+    sell: -1
+  copper_spear:
+    buy: 0
+    sell: -1
+  copper_sword:
+    buy: 0
+    sell: -1
+  copper_torch:
+    buy: 0
+    sell: -1
+  copper_trapdoor:
+    buy: 0
+    sell: -1
+  cornflower:
+    buy: 0
+    sell: -1
+  cow_spawn_egg:
+    buy: 0
+    sell: -1
+  cracked_deepslate_bricks:
+    buy: 0
+    sell: -1
+  cracked_deepslate_tiles:
+    buy: 0
+    sell: -1
+  cracked_nether_bricks:
+    buy: 0
+    sell: -1
+  cracked_polished_blackstone_bricks:
+    buy: 0
+    sell: -1
+  cracked_stone_bricks:
+    buy: 0
+    sell: -1
+  crafter:
+    buy: 0
+    sell: -1
+  crafting_table:
+    buy: 0
+    sell: -1
+  creaking_heart:
+    buy: 0
+    sell: -1
+  creaking_spawn_egg:
+    buy: 0
+    sell: -1
+  creeper_banner_pattern:
+    buy: 0
+    sell: -1
+  creeper_head:
+    buy: 0
+    sell: -1
+  creeper_spawn_egg:
+    buy: 0
+    sell: -1
+  crimson_button:
+    buy: 0
+    sell: -1
+  crimson_door:
+    buy: 0
+    sell: -1
+  crimson_fence:
+    buy: 0
+    sell: -1
+  crimson_fence_gate:
+    buy: 0
+    sell: -1
+  crimson_fungus:
+    buy: 0
+    sell: -1
+  crimson_hanging_sign:
+    buy: 0
+    sell: -1
+  crimson_hyphae:
+    buy: 0
+    sell: -1
+  crimson_nylium:
+    buy: 0
+    sell: -1
+  crimson_planks:
+    buy: 0
+    sell: -1
+  crimson_pressure_plate:
+    buy: 0
+    sell: -1
+  crimson_roots:
+    buy: 0
+    sell: -1
+  crimson_shelf:
+    buy: 0
+    sell: -1
+  crimson_sign:
+    buy: 0
+    sell: -1
+  crimson_slab:
+    buy: 0
+    sell: -1
+  crimson_stairs:
+    buy: 0
+    sell: -1
+  crimson_stem:
+    buy: 0
+    sell: -1
+  crimson_trapdoor:
+    buy: 0
+    sell: -1
+  crossbow:
+    buy: 0
+    sell: -1
+  crying_obsidian:
+    buy: 0
+    sell: -1
+  cut_copper:
+    buy: 0
+    sell: -1
+  cut_copper_slab:
+    buy: 0
+    sell: -1
+  cut_copper_stairs:
+    buy: 0
+    sell: -1
+  cut_red_sandstone:
+    buy: 0
+    sell: -1
+  cut_red_sandstone_slab:
+    buy: 0
+    sell: -1
+  cut_sandstone:
+    buy: 0
+    sell: -1
+  cut_sandstone_slab:
+    buy: 0
+    sell: -1
+  cyan_banner:
+    buy: 0
+    sell: -1
+  cyan_bed:
+    buy: 0
+    sell: -1
+  cyan_bundle:
+    buy: 0
+    sell: -1
+  cyan_candle:
+    buy: 0
+    sell: -1
+  cyan_carpet:
+    buy: 0
+    sell: -1
+  cyan_concrete:
+    buy: 0
+    sell: -1
+  cyan_concrete_powder:
+    buy: 0
+    sell: -1
+  cyan_dye:
+    buy: 0
+    sell: -1
+  cyan_glazed_terracotta:
+    buy: 0
+    sell: -1
+  cyan_harness:
+    buy: 0
+    sell: -1
+  cyan_shulker_box:
+    buy: 0
+    sell: -1
+  cyan_stained_glass:
+    buy: 0
+    sell: -1
+  cyan_stained_glass_pane:
+    buy: 0
+    sell: -1
+  cyan_terracotta:
+    buy: 0
+    sell: -1
+  cyan_wool:
+    buy: 0
+    sell: -1
+  damaged_anvil:
+    buy: 0
+    sell: -1
+  dandelion:
+    buy: 0
+    sell: -1
+  danger_pottery_sherd:
+    buy: 0
+    sell: -1
+  dark_oak_boat:
+    buy: 0
+    sell: -1
+  dark_oak_button:
+    buy: 0
+    sell: -1
+  dark_oak_chest_boat:
+    buy: 0
+    sell: -1
+  dark_oak_door:
+    buy: 0
+    sell: -1
+  dark_oak_fence:
+    buy: 0
+    sell: -1
+  dark_oak_fence_gate:
+    buy: 0
+    sell: -1
+  dark_oak_hanging_sign:
+    buy: 0
+    sell: -1
+  dark_oak_leaves:
+    buy: 0
+    sell: -1
+  dark_oak_log:
+    buy: 0
+    sell: -1
+  dark_oak_planks:
+    buy: 0
+    sell: -1
+  dark_oak_pressure_plate:
+    buy: 0
+    sell: -1
+  dark_oak_sapling:
+    buy: 0
+    sell: -1
+  dark_oak_shelf:
+    buy: 0
+    sell: -1
+  dark_oak_sign:
+    buy: 0
+    sell: -1
+  dark_oak_slab:
+    buy: 0
+    sell: -1
+  dark_oak_stairs:
+    buy: 0
+    sell: -1
+  dark_oak_trapdoor:
+    buy: 0
+    sell: -1
+  dark_oak_wood:
+    buy: 0
+    sell: -1
+  dark_prismarine:
+    buy: 0
+    sell: -1
+  dark_prismarine_slab:
+    buy: 0
+    sell: -1
+  dark_prismarine_stairs:
+    buy: 0
+    sell: -1
+  daylight_detector:
+    buy: 0
+    sell: -1
+  dead_brain_coral:
+    buy: 0
+    sell: -1
+  dead_brain_coral_block:
+    buy: 0
+    sell: -1
+  dead_brain_coral_fan:
+    buy: 0
+    sell: -1
+  dead_bubble_coral:
+    buy: 0
+    sell: -1
+  dead_bubble_coral_block:
+    buy: 0
+    sell: -1
+  dead_bubble_coral_fan:
+    buy: 0
+    sell: -1
+  dead_bush:
+    buy: 0
+    sell: -1
+  dead_fire_coral:
+    buy: 0
+    sell: -1
+  dead_fire_coral_block:
+    buy: 0
+    sell: -1
+  dead_fire_coral_fan:
+    buy: 0
+    sell: -1
+  dead_horn_coral:
+    buy: 0
+    sell: -1
+  dead_horn_coral_block:
+    buy: 0
+    sell: -1
+  dead_horn_coral_fan:
+    buy: 0
+    sell: -1
+  dead_tube_coral:
+    buy: 0
+    sell: -1
+  dead_tube_coral_block:
+    buy: 0
+    sell: -1
+  dead_tube_coral_fan:
+    buy: 0
+    sell: -1
+  debug_stick:
+    buy: 0
+    sell: -1
+  decorated_pot:
+    buy: 0
+    sell: -1
+  deepslate:
+    buy: 0
+    sell: -1
+  deepslate_brick_slab:
+    buy: 0
+    sell: -1
+  deepslate_brick_stairs:
+    buy: 0
+    sell: -1
+  deepslate_brick_wall:
+    buy: 0
+    sell: -1
+  deepslate_bricks:
+    buy: 0
+    sell: -1
+  deepslate_coal_ore:
+    buy: 0
+    sell: -1
+  deepslate_copper_ore:
+    buy: 0
+    sell: -1
+  deepslate_diamond_ore:
+    buy: 0
+    sell: -1
+  deepslate_emerald_ore:
+    buy: 0
+    sell: -1
+  deepslate_gold_ore:
+    buy: 0
+    sell: -1
+  deepslate_iron_ore:
+    buy: 0
+    sell: -1
+  deepslate_lapis_ore:
+    buy: 0
+    sell: -1
+  deepslate_redstone_ore:
+    buy: 0
+    sell: -1
+  deepslate_tile_slab:
+    buy: 0
+    sell: -1
+  deepslate_tile_stairs:
+    buy: 0
+    sell: -1
+  deepslate_tile_wall:
+    buy: 0
+    sell: -1
+  deepslate_tiles:
+    buy: 0
+    sell: -1
+  detector_rail:
+    buy: 0
+    sell: -1
+  diamond:
+    buy: 0
+    sell: -1
+  diamond_axe:
+    buy: 0
+    sell: -1
+  diamond_block:
+    buy: 0
+    sell: -1
+  diamond_boots:
+    buy: 0
+    sell: -1
+  diamond_chestplate:
+    buy: 0
+    sell: -1
+  diamond_helmet:
+    buy: 0
+    sell: -1
+  diamond_hoe:
+    buy: 0
+    sell: -1
+  diamond_horse_armor:
+    buy: 0
+    sell: -1
+  diamond_leggings:
+    buy: 0
+    sell: -1
+  diamond_nautilus_armor:
+    buy: 0
+    sell: -1
+  diamond_ore:
+    buy: 0
+    sell: -1
+  diamond_pickaxe:
+    buy: 0
+    sell: -1
+  diamond_shovel:
+    buy: 0
+    sell: -1
+  diamond_spear:
+    buy: 0
+    sell: -1
+  diamond_sword:
+    buy: 0
+    sell: -1
+  diorite:
+    buy: 0
+    sell: -1
+  diorite_slab:
+    buy: 0
+    sell: -1
+  diorite_stairs:
+    buy: 0
+    sell: -1
+  diorite_wall:
+    buy: 0
+    sell: -1
+  dirt:
+    buy: 0
+    sell: -1
+  dirt_path:
+    buy: 0
+    sell: -1
+  disc_fragment_5:
+    buy: 0
+    sell: -1
+  dispenser:
+    buy: 0
+    sell: -1
+  dolphin_spawn_egg:
+    buy: 0
+    sell: -1
+  donkey_spawn_egg:
+    buy: 0
+    sell: -1
+  dragon_breath:
+    buy: 0
+    sell: -1
+  dragon_egg:
+    buy: 0
+    sell: -1
+  dragon_head:
+    buy: 0
+    sell: -1
+  dried_ghast:
+    buy: 0
+    sell: -1
+  dried_kelp:
+    buy: 0
+    sell: -1
+  dried_kelp_block:
+    buy: 0
+    sell: -1
+  dripstone_block:
+    buy: 0
+    sell: -1
+  dropper:
+    buy: 0
+    sell: -1
+  drowned_spawn_egg:
+    buy: 0
+    sell: -1
+  dune_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  echo_shard:
+    buy: 0
+    sell: -1
+  egg:
+    buy: 0
+    sell: -1
+  elder_guardian_spawn_egg:
+    buy: 0
+    sell: -1
+  elytra:
+    buy: 0
+    sell: -1
+  emerald:
+    buy: 0
+    sell: -1
+  emerald_block:
+    buy: 0
+    sell: -1
+  emerald_ore:
+    buy: 0
+    sell: -1
+  enchanted_book:
+    buy: 0
+    sell: -1
+  enchanted_golden_apple:
+    buy: 0
+    sell: -1
+  enchanting_table:
+    buy: 0
+    sell: -1
+  end_crystal:
+    buy: 0
+    sell: -1
+  end_portal_frame:
+    buy: 0
+    sell: -1
+  end_rod:
+    buy: 0
+    sell: -1
+  end_stone:
+    buy: 0
+    sell: -1
+  end_stone_brick_slab:
+    buy: 0
+    sell: -1
+  end_stone_brick_stairs:
+    buy: 0
+    sell: -1
+  end_stone_brick_wall:
+    buy: 0
+    sell: -1
+  end_stone_bricks:
+    buy: 0
+    sell: -1
+  ender_chest:
+    buy: 0
+    sell: -1
+  ender_dragon_spawn_egg:
+    buy: 0
+    sell: -1
+  ender_eye:
+    buy: 0
+    sell: -1
+  ender_pearl:
+    buy: 0
+    sell: -1
+  enderman_spawn_egg:
+    buy: 0
+    sell: -1
+  endermite_spawn_egg:
+    buy: 0
+    sell: -1
+  evoker_spawn_egg:
+    buy: 0
+    sell: -1
+  experience_bottle:
+    buy: 0
+    sell: -1
+  explorer_pottery_sherd:
+    buy: 0
+    sell: -1
+  exposed_chiseled_copper:
+    buy: 0
+    sell: -1
+  exposed_copper:
+    buy: 0
+    sell: -1
+  exposed_copper_bars:
+    buy: 0
+    sell: -1
+  exposed_copper_bulb:
+    buy: 0
+    sell: -1
+  exposed_copper_chain:
+    buy: 0
+    sell: -1
+  exposed_copper_chest:
+    buy: 0
+    sell: -1
+  exposed_copper_door:
+    buy: 0
+    sell: -1
+  exposed_copper_golem_statue:
+    buy: 0
+    sell: -1
+  exposed_copper_grate:
+    buy: 0
+    sell: -1
+  exposed_copper_lantern:
+    buy: 0
+    sell: -1
+  exposed_copper_trapdoor:
+    buy: 0
+    sell: -1
+  exposed_cut_copper:
+    buy: 0
+    sell: -1
+  exposed_cut_copper_slab:
+    buy: 0
+    sell: -1
+  exposed_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  exposed_lightning_rod:
+    buy: 0
+    sell: -1
+  eye_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  farmland:
+    buy: 0
+    sell: -1
+  feather:
+    buy: 0
+    sell: -1
+  fermented_spider_eye:
+    buy: 0
+    sell: -1
+  fern:
+    buy: 0
+    sell: -1
+  field_masoned_banner_pattern:
+    buy: 0
+    sell: -1
+  filled_map:
+    buy: 0
+    sell: -1
+  fire_charge:
+    buy: 0
+    sell: -1
+  fire_coral:
+    buy: 0
+    sell: -1
+  fire_coral_block:
+    buy: 0
+    sell: -1
+  fire_coral_fan:
+    buy: 0
+    sell: -1
+  firefly_bush:
+    buy: 0
+    sell: -1
+  firework_rocket:
+    buy: 0
+    sell: -1
+  firework_star:
+    buy: 0
+    sell: -1
+  fishing_rod:
+    buy: 0
+    sell: -1
+  fletching_table:
+    buy: 0
+    sell: -1
+  flint:
+    buy: 0
+    sell: -1
+  flint_and_steel:
+    buy: 0
+    sell: -1
+  flow_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  flow_banner_pattern:
+    buy: 0
+    sell: -1
+  flow_pottery_sherd:
+    buy: 0
+    sell: -1
+  flower_banner_pattern:
+    buy: 0
+    sell: -1
+  flower_pot:
+    buy: 0
+    sell: -1
+  flowering_azalea:
+    buy: 0
+    sell: -1
+  flowering_azalea_leaves:
+    buy: 0
+    sell: -1
+  fox_spawn_egg:
+    buy: 0
+    sell: -1
+  friend_pottery_sherd:
+    buy: 0
+    sell: -1
+  frog_spawn_egg:
+    buy: 0
+    sell: -1
+  frogspawn:
+    buy: 0
+    sell: -1
+  furnace:
+    buy: 0
+    sell: -1
+  furnace_minecart:
+    buy: 0
+    sell: -1
+  ghast_spawn_egg:
+    buy: 0
+    sell: -1
+  ghast_tear:
+    buy: 0
+    sell: -1
+  gilded_blackstone:
+    buy: 0
+    sell: -1
+  glass:
+    buy: 0
+    sell: -1
+  glass_bottle:
+    buy: 0
+    sell: -1
+  glass_pane:
+    buy: 0
+    sell: -1
+  glistering_melon_slice:
+    buy: 0
+    sell: -1
+  globe_banner_pattern:
+    buy: 0
+    sell: -1
+  glow_berries:
+    buy: 0
+    sell: -1
+  glow_ink_sac:
+    buy: 0
+    sell: -1
+  glow_item_frame:
+    buy: 0
+    sell: -1
+  glow_lichen:
+    buy: 0
+    sell: -1
+  glow_squid_spawn_egg:
+    buy: 0
+    sell: -1
+  glowstone:
+    buy: 0
+    sell: -1
+  glowstone_dust:
+    buy: 0
+    sell: -1
+  goat_horn:
+    buy: 0
+    sell: -1
+  goat_spawn_egg:
+    buy: 0
+    sell: -1
+  gold_block:
+    buy: 0
+    sell: -1
+  gold_ingot:
+    buy: 0
+    sell: -1
+  gold_nugget:
+    buy: 0
+    sell: -1
+  gold_ore:
+    buy: 0
+    sell: -1
+  golden_apple:
+    buy: 0
+    sell: -1
+  golden_axe:
+    buy: 0
+    sell: -1
+  golden_boots:
+    buy: 0
+    sell: -1
+  golden_carrot:
+    buy: 0
+    sell: -1
+  golden_chestplate:
+    buy: 0
+    sell: -1
+  golden_dandelion:
+    buy: 0
+    sell: -1
+  golden_helmet:
+    buy: 0
+    sell: -1
+  golden_hoe:
+    buy: 0
+    sell: -1
+  golden_horse_armor:
+    buy: 0
+    sell: -1
+  golden_leggings:
+    buy: 0
+    sell: -1
+  golden_nautilus_armor:
+    buy: 0
+    sell: -1
+  golden_pickaxe:
+    buy: 0
+    sell: -1
+  golden_shovel:
+    buy: 0
+    sell: -1
+  golden_spear:
+    buy: 0
+    sell: -1
+  golden_sword:
+    buy: 0
+    sell: -1
+  granite:
+    buy: 0
+    sell: -1
+  granite_slab:
+    buy: 0
+    sell: -1
+  granite_stairs:
+    buy: 0
+    sell: -1
+  granite_wall:
+    buy: 0
+    sell: -1
+  grass_block:
+    buy: 0
+    sell: -1
+  gravel:
+    buy: 0
+    sell: -1
+  gray_banner:
+    buy: 0
+    sell: -1
+  gray_bed:
+    buy: 0
+    sell: -1
+  gray_bundle:
+    buy: 0
+    sell: -1
+  gray_candle:
+    buy: 0
+    sell: -1
+  gray_carpet:
+    buy: 0
+    sell: -1
+  gray_concrete:
+    buy: 0
+    sell: -1
+  gray_concrete_powder:
+    buy: 0
+    sell: -1
+  gray_dye:
+    buy: 0
+    sell: -1
+  gray_glazed_terracotta:
+    buy: 0
+    sell: -1
+  gray_harness:
+    buy: 0
+    sell: -1
+  gray_shulker_box:
+    buy: 0
+    sell: -1
+  gray_stained_glass:
+    buy: 0
+    sell: -1
+  gray_stained_glass_pane:
+    buy: 0
+    sell: -1
+  gray_terracotta:
+    buy: 0
+    sell: -1
+  gray_wool:
+    buy: 0
+    sell: -1
+  green_banner:
+    buy: 0
+    sell: -1
+  green_bed:
+    buy: 0
+    sell: -1
+  green_bundle:
+    buy: 0
+    sell: -1
+  green_candle:
+    buy: 0
+    sell: -1
+  green_carpet:
+    buy: 0
+    sell: -1
+  green_concrete:
+    buy: 0
+    sell: -1
+  green_concrete_powder:
+    buy: 0
+    sell: -1
+  green_dye:
+    buy: 0
+    sell: -1
+  green_glazed_terracotta:
+    buy: 0
+    sell: -1
+  green_harness:
+    buy: 0
+    sell: -1
+  green_shulker_box:
+    buy: 0
+    sell: -1
+  green_stained_glass:
+    buy: 0
+    sell: -1
+  green_stained_glass_pane:
+    buy: 0
+    sell: -1
+  green_terracotta:
+    buy: 0
+    sell: -1
+  green_wool:
+    buy: 0
+    sell: -1
+  grindstone:
+    buy: 0
+    sell: -1
+  guardian_spawn_egg:
+    buy: 0
+    sell: -1
+  gunpowder:
+    buy: 0
+    sell: -1
+  guster_banner_pattern:
+    buy: 0
+    sell: -1
+  guster_pottery_sherd:
+    buy: 0
+    sell: -1
+  hanging_roots:
+    buy: 0
+    sell: -1
+  happy_ghast_spawn_egg:
+    buy: 0
+    sell: -1
+  hay_block:
+    buy: 0
+    sell: -1
+  heart_of_the_sea:
+    buy: 0
+    sell: -1
+  heart_pottery_sherd:
+    buy: 0
+    sell: -1
+  heartbreak_pottery_sherd:
+    buy: 0
+    sell: -1
+  heavy_core:
+    buy: 0
+    sell: -1
+  heavy_weighted_pressure_plate:
+    buy: 0
+    sell: -1
+  hoglin_spawn_egg:
+    buy: 0
+    sell: -1
+  honey_block:
+    buy: 0
+    sell: -1
+  honey_bottle:
+    buy: 0
+    sell: -1
+  honeycomb:
+    buy: 0
+    sell: -1
+  honeycomb_block:
+    buy: 0
+    sell: -1
+  hopper:
+    buy: 0
+    sell: -1
+  hopper_minecart:
+    buy: 0
+    sell: -1
+  horn_coral:
+    buy: 0
+    sell: -1
+  horn_coral_block:
+    buy: 0
+    sell: -1
+  horn_coral_fan:
+    buy: 0
+    sell: -1
+  horse_spawn_egg:
+    buy: 0
+    sell: -1
+  host_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  howl_pottery_sherd:
+    buy: 0
+    sell: -1
+  husk_spawn_egg:
+    buy: 0
+    sell: -1
+  ice:
+    buy: 0
+    sell: -1
+  infested_chiseled_stone_bricks:
+    buy: 0
+    sell: -1
+  infested_cobblestone:
+    buy: 0
+    sell: -1
+  infested_cracked_stone_bricks:
+    buy: 0
+    sell: -1
+  infested_deepslate:
+    buy: 0
+    sell: -1
+  infested_mossy_stone_bricks:
+    buy: 0
+    sell: -1
+  infested_stone:
+    buy: 0
+    sell: -1
+  infested_stone_bricks:
+    buy: 0
+    sell: -1
+  ink_sac:
+    buy: 0
+    sell: -1
+  iron_axe:
+    buy: 0
+    sell: -1
+  iron_bars:
+    buy: 0
+    sell: -1
+  iron_block:
+    buy: 0
+    sell: -1
+  iron_boots:
+    buy: 0
+    sell: -1
+  iron_chain:
+    buy: 0
+    sell: -1
+  iron_chestplate:
+    buy: 0
+    sell: -1
+  iron_door:
+    buy: 0
+    sell: -1
+  iron_golem_spawn_egg:
+    buy: 0
+    sell: -1
+  iron_helmet:
+    buy: 0
+    sell: -1
+  iron_hoe:
+    buy: 0
+    sell: -1
+  iron_horse_armor:
+    buy: 0
+    sell: -1
+  iron_ingot:
+    buy: 0
+    sell: -1
+  iron_leggings:
+    buy: 0
+    sell: -1
+  iron_nautilus_armor:
+    buy: 0
+    sell: -1
+  iron_nugget:
+    buy: 0
+    sell: -1
+  iron_ore:
+    buy: 0
+    sell: -1
+  iron_pickaxe:
+    buy: 0
+    sell: -1
+  iron_shovel:
+    buy: 0
+    sell: -1
+  iron_spear:
+    buy: 0
+    sell: -1
+  iron_sword:
+    buy: 0
+    sell: -1
+  iron_trapdoor:
+    buy: 0
+    sell: -1
+  item_frame:
+    buy: 0
+    sell: -1
+  jack_o_lantern:
+    buy: 0
+    sell: -1
+  jigsaw:
+    buy: 0
+    sell: -1
+  jukebox:
+    buy: 0
+    sell: -1
+  jungle_boat:
+    buy: 0
+    sell: -1
+  jungle_button:
+    buy: 0
+    sell: -1
+  jungle_chest_boat:
+    buy: 0
+    sell: -1
+  jungle_door:
+    buy: 0
+    sell: -1
+  jungle_fence:
+    buy: 0
+    sell: -1
+  jungle_fence_gate:
+    buy: 0
+    sell: -1
+  jungle_hanging_sign:
+    buy: 0
+    sell: -1
+  jungle_leaves:
+    buy: 0
+    sell: -1
+  jungle_log:
+    buy: 0
+    sell: -1
+  jungle_planks:
+    buy: 0
+    sell: -1
+  jungle_pressure_plate:
+    buy: 0
+    sell: -1
+  jungle_sapling:
+    buy: 0
+    sell: -1
+  jungle_shelf:
+    buy: 0
+    sell: -1
+  jungle_sign:
+    buy: 0
+    sell: -1
+  jungle_slab:
+    buy: 0
+    sell: -1
+  jungle_stairs:
+    buy: 0
+    sell: -1
+  jungle_trapdoor:
+    buy: 0
+    sell: -1
+  jungle_wood:
+    buy: 0
+    sell: -1
+  kelp:
+    buy: 0
+    sell: -1
+  knowledge_book:
+    buy: 0
+    sell: -1
+  ladder:
+    buy: 0
+    sell: -1
+  lantern:
+    buy: 0
+    sell: -1
+  lapis_block:
+    buy: 0
+    sell: -1
+  lapis_lazuli:
+    buy: 0
+    sell: -1
+  lapis_ore:
+    buy: 0
+    sell: -1
+  large_amethyst_bud:
+    buy: 0
+    sell: -1
+  large_fern:
+    buy: 0
+    sell: -1
+  lava_bucket:
+    buy: 0
+    sell: -1
+  lead:
+    buy: 0
+    sell: -1
+  leaf_litter:
+    buy: 0
+    sell: -1
+  leather:
+    buy: 0
+    sell: -1
+  leather_boots:
+    buy: 0
+    sell: -1
+  leather_chestplate:
+    buy: 0
+    sell: -1
+  leather_helmet:
+    buy: 0
+    sell: -1
+  leather_horse_armor:
+    buy: 0
+    sell: -1
+  leather_leggings:
+    buy: 0
+    sell: -1
+  lectern:
+    buy: 0
+    sell: -1
+  lever:
+    buy: 0
+    sell: -1
+  light:
+    buy: 0
+    sell: -1
+  light_blue_banner:
+    buy: 0
+    sell: -1
+  light_blue_bed:
+    buy: 0
+    sell: -1
+  light_blue_bundle:
+    buy: 0
+    sell: -1
+  light_blue_candle:
+    buy: 0
+    sell: -1
+  light_blue_carpet:
+    buy: 0
+    sell: -1
+  light_blue_concrete:
+    buy: 0
+    sell: -1
+  light_blue_concrete_powder:
+    buy: 0
+    sell: -1
+  light_blue_dye:
+    buy: 0
+    sell: -1
+  light_blue_glazed_terracotta:
+    buy: 0
+    sell: -1
+  light_blue_harness:
+    buy: 0
+    sell: -1
+  light_blue_shulker_box:
+    buy: 0
+    sell: -1
+  light_blue_stained_glass:
+    buy: 0
+    sell: -1
+  light_blue_stained_glass_pane:
+    buy: 0
+    sell: -1
+  light_blue_terracotta:
+    buy: 0
+    sell: -1
+  light_blue_wool:
+    buy: 0
+    sell: -1
+  light_gray_banner:
+    buy: 0
+    sell: -1
+  light_gray_bed:
+    buy: 0
+    sell: -1
+  light_gray_bundle:
+    buy: 0
+    sell: -1
+  light_gray_candle:
+    buy: 0
+    sell: -1
+  light_gray_carpet:
+    buy: 0
+    sell: -1
+  light_gray_concrete:
+    buy: 0
+    sell: -1
+  light_gray_concrete_powder:
+    buy: 0
+    sell: -1
+  light_gray_dye:
+    buy: 0
+    sell: -1
+  light_gray_glazed_terracotta:
+    buy: 0
+    sell: -1
+  light_gray_harness:
+    buy: 0
+    sell: -1
+  light_gray_shulker_box:
+    buy: 0
+    sell: -1
+  light_gray_stained_glass:
+    buy: 0
+    sell: -1
+  light_gray_stained_glass_pane:
+    buy: 0
+    sell: -1
+  light_gray_terracotta:
+    buy: 0
+    sell: -1
+  light_gray_wool:
+    buy: 0
+    sell: -1
+  light_weighted_pressure_plate:
+    buy: 0
+    sell: -1
+  lightning_rod:
+    buy: 0
+    sell: -1
+  lilac:
+    buy: 0
+    sell: -1
+  lily_of_the_valley:
+    buy: 0
+    sell: -1
+  lily_pad:
+    buy: 0
+    sell: -1
+  lime_banner:
+    buy: 0
+    sell: -1
+  lime_bed:
+    buy: 0
+    sell: -1
+  lime_bundle:
+    buy: 0
+    sell: -1
+  lime_candle:
+    buy: 0
+    sell: -1
+  lime_carpet:
+    buy: 0
+    sell: -1
+  lime_concrete:
+    buy: 0
+    sell: -1
+  lime_concrete_powder:
+    buy: 0
+    sell: -1
+  lime_dye:
+    buy: 0
+    sell: -1
+  lime_glazed_terracotta:
+    buy: 0
+    sell: -1
+  lime_harness:
+    buy: 0
+    sell: -1
+  lime_shulker_box:
+    buy: 0
+    sell: -1
+  lime_stained_glass:
+    buy: 0
+    sell: -1
+  lime_stained_glass_pane:
+    buy: 0
+    sell: -1
+  lime_terracotta:
+    buy: 0
+    sell: -1
+  lime_wool:
+    buy: 0
+    sell: -1
+  lingering_potion:
+    buy: 0
+    sell: -1
+  llama_spawn_egg:
+    buy: 0
+    sell: -1
+  lodestone:
+    buy: 0
+    sell: -1
+  loom:
+    buy: 0
+    sell: -1
+  mace:
+    buy: 0
+    sell: -1
+  magenta_banner:
+    buy: 0
+    sell: -1
+  magenta_bed:
+    buy: 0
+    sell: -1
+  magenta_bundle:
+    buy: 0
+    sell: -1
+  magenta_candle:
+    buy: 0
+    sell: -1
+  magenta_carpet:
+    buy: 0
+    sell: -1
+  magenta_concrete:
+    buy: 0
+    sell: -1
+  magenta_concrete_powder:
+    buy: 0
+    sell: -1
+  magenta_dye:
+    buy: 0
+    sell: -1
+  magenta_glazed_terracotta:
+    buy: 0
+    sell: -1
+  magenta_harness:
+    buy: 0
+    sell: -1
+  magenta_shulker_box:
+    buy: 0
+    sell: -1
+  magenta_stained_glass:
+    buy: 0
+    sell: -1
+  magenta_stained_glass_pane:
+    buy: 0
+    sell: -1
+  magenta_terracotta:
+    buy: 0
+    sell: -1
+  magenta_wool:
+    buy: 0
+    sell: -1
+  magma_block:
+    buy: 0
+    sell: -1
+  magma_cream:
+    buy: 0
+    sell: -1
+  magma_cube_spawn_egg:
+    buy: 0
+    sell: -1
+  mangrove_boat:
+    buy: 0
+    sell: -1
+  mangrove_button:
+    buy: 0
+    sell: -1
+  mangrove_chest_boat:
+    buy: 0
+    sell: -1
+  mangrove_door:
+    buy: 0
+    sell: -1
+  mangrove_fence:
+    buy: 0
+    sell: -1
+  mangrove_fence_gate:
+    buy: 0
+    sell: -1
+  mangrove_hanging_sign:
+    buy: 0
+    sell: -1
+  mangrove_leaves:
+    buy: 0
+    sell: -1
+  mangrove_log:
+    buy: 0
+    sell: -1
+  mangrove_planks:
+    buy: 0
+    sell: -1
+  mangrove_pressure_plate:
+    buy: 0
+    sell: -1
+  mangrove_propagule:
+    buy: 0
+    sell: -1
+  mangrove_roots:
+    buy: 0
+    sell: -1
+  mangrove_shelf:
+    buy: 0
+    sell: -1
+  mangrove_sign:
+    buy: 0
+    sell: -1
+  mangrove_slab:
+    buy: 0
+    sell: -1
+  mangrove_stairs:
+    buy: 0
+    sell: -1
+  mangrove_trapdoor:
+    buy: 0
+    sell: -1
+  mangrove_wood:
+    buy: 0
+    sell: -1
+  map:
+    buy: 0
+    sell: -1
+  medium_amethyst_bud:
+    buy: 0
+    sell: -1
+  melon:
+    buy: 0
+    sell: -1
+  melon_seeds:
+    buy: 0
+    sell: -1
+  melon_slice:
+    buy: 0
+    sell: -1
+  milk_bucket:
+    buy: 0
+    sell: -1
+  minecart:
+    buy: 0
+    sell: -1
+  miner_pottery_sherd:
+    buy: 0
+    sell: -1
+  mojang_banner_pattern:
+    buy: 0
+    sell: -1
+  mooshroom_spawn_egg:
+    buy: 0
+    sell: -1
+  moss_block:
+    buy: 0
+    sell: -1
+  moss_carpet:
+    buy: 0
+    sell: -1
+  mossy_cobblestone:
+    buy: 0
+    sell: -1
+  mossy_cobblestone_slab:
+    buy: 0
+    sell: -1
+  mossy_cobblestone_stairs:
+    buy: 0
+    sell: -1
+  mossy_cobblestone_wall:
+    buy: 0
+    sell: -1
+  mossy_stone_brick_slab:
+    buy: 0
+    sell: -1
+  mossy_stone_brick_stairs:
+    buy: 0
+    sell: -1
+  mossy_stone_brick_wall:
+    buy: 0
+    sell: -1
+  mossy_stone_bricks:
+    buy: 0
+    sell: -1
+  mourner_pottery_sherd:
+    buy: 0
+    sell: -1
+  mud:
+    buy: 0
+    sell: -1
+  mud_brick_slab:
+    buy: 0
+    sell: -1
+  mud_brick_stairs:
+    buy: 0
+    sell: -1
+  mud_brick_wall:
+    buy: 0
+    sell: -1
+  mud_bricks:
+    buy: 0
+    sell: -1
+  muddy_mangrove_roots:
+    buy: 0
+    sell: -1
+  mule_spawn_egg:
+    buy: 0
+    sell: -1
+  mushroom_stem:
+    buy: 0
+    sell: -1
+  mushroom_stew:
+    buy: 0
+    sell: -1
+  music_disc_11:
+    buy: 0
+    sell: -1
+  music_disc_13:
+    buy: 0
+    sell: -1
+  music_disc_5:
+    buy: 0
+    sell: -1
+  music_disc_blocks:
+    buy: 0
+    sell: -1
+  music_disc_cat:
+    buy: 0
+    sell: -1
+  music_disc_chirp:
+    buy: 0
+    sell: -1
+  music_disc_creator:
+    buy: 0
+    sell: -1
+  music_disc_creator_music_box:
+    buy: 0
+    sell: -1
+  music_disc_far:
+    buy: 0
+    sell: -1
+  music_disc_lava_chicken:
+    buy: 0
+    sell: -1
+  music_disc_mall:
+    buy: 0
+    sell: -1
+  music_disc_mellohi:
+    buy: 0
+    sell: -1
+  music_disc_otherside:
+    buy: 0
+    sell: -1
+  music_disc_pigstep:
+    buy: 0
+    sell: -1
+  music_disc_precipice:
+    buy: 0
+    sell: -1
+  music_disc_relic:
+    buy: 0
+    sell: -1
+  music_disc_stal:
+    buy: 0
+    sell: -1
+  music_disc_strad:
+    buy: 0
+    sell: -1
+  music_disc_tears:
+    buy: 0
+    sell: -1
+  music_disc_wait:
+    buy: 0
+    sell: -1
+  music_disc_ward:
+    buy: 0
+    sell: -1
+  mutton:
+    buy: 0
+    sell: -1
+  mycelium:
+    buy: 0
+    sell: -1
+  name_tag:
+    buy: 0
+    sell: -1
+  nautilus_shell:
+    buy: 0
+    sell: -1
+  nautilus_spawn_egg:
+    buy: 0
+    sell: -1
+  nether_brick:
+    buy: 0
+    sell: -1
+  nether_brick_fence:
+    buy: 0
+    sell: -1
+  nether_brick_slab:
+    buy: 0
+    sell: -1
+  nether_brick_stairs:
+    buy: 0
+    sell: -1
+  nether_brick_wall:
+    buy: 0
+    sell: -1
+  nether_bricks:
+    buy: 0
+    sell: -1
+  nether_gold_ore:
+    buy: 0
+    sell: -1
+  nether_quartz_ore:
+    buy: 0
+    sell: -1
+  nether_sprouts:
+    buy: 0
+    sell: -1
+  nether_star:
+    buy: 0
+    sell: -1
+  nether_wart:
+    buy: 0
+    sell: -1
+  nether_wart_block:
+    buy: 0
+    sell: -1
+  netherite_axe:
+    buy: 0
+    sell: -1
+  netherite_block:
+    buy: 0
+    sell: -1
+  netherite_boots:
+    buy: 0
+    sell: -1
+  netherite_chestplate:
+    buy: 0
+    sell: -1
+  netherite_helmet:
+    buy: 0
+    sell: -1
+  netherite_hoe:
+    buy: 0
+    sell: -1
+  netherite_horse_armor:
+    buy: 0
+    sell: -1
+  netherite_ingot:
+    buy: 0
+    sell: -1
+  netherite_leggings:
+    buy: 0
+    sell: -1
+  netherite_nautilus_armor:
+    buy: 0
+    sell: -1
+  netherite_pickaxe:
+    buy: 0
+    sell: -1
+  netherite_scrap:
+    buy: 0
+    sell: -1
+  netherite_shovel:
+    buy: 0
+    sell: -1
+  netherite_spear:
+    buy: 0
+    sell: -1
+  netherite_sword:
+    buy: 0
+    sell: -1
+  netherite_upgrade_smithing_template:
+    buy: 0
+    sell: -1
+  netherrack:
+    buy: 0
+    sell: -1
+  note_block:
+    buy: 0
+    sell: -1
+  oak_boat:
+    buy: 0
+    sell: -1
+  oak_button:
+    buy: 0
+    sell: -1
+  oak_chest_boat:
+    buy: 0
+    sell: -1
+  oak_door:
+    buy: 0
+    sell: -1
+  oak_fence:
+    buy: 0
+    sell: -1
+  oak_fence_gate:
+    buy: 0
+    sell: -1
+  oak_hanging_sign:
+    buy: 0
+    sell: -1
+  oak_leaves:
+    buy: 0
+    sell: -1
+  oak_log:
+    buy: 0
+    sell: -1
+  oak_planks:
+    buy: 0
+    sell: -1
+  oak_pressure_plate:
+    buy: 0
+    sell: -1
+  oak_sapling:
+    buy: 0
+    sell: -1
+  oak_shelf:
+    buy: 0
+    sell: -1
+  oak_sign:
+    buy: 0
+    sell: -1
+  oak_slab:
+    buy: 0
+    sell: -1
+  oak_stairs:
+    buy: 0
+    sell: -1
+  oak_trapdoor:
+    buy: 0
+    sell: -1
+  oak_wood:
+    buy: 0
+    sell: -1
+  observer:
+    buy: 0
+    sell: -1
+  obsidian:
+    buy: 0
+    sell: -1
+  ocelot_spawn_egg:
+    buy: 0
+    sell: -1
+  ochre_froglight:
+    buy: 0
+    sell: -1
+  ominous_bottle:
+    buy: 0
+    sell: -1
+  ominous_trial_key:
+    buy: 0
+    sell: -1
+  open_eyeblossom:
+    buy: 0
+    sell: -1
+  orange_banner:
+    buy: 0
+    sell: -1
+  orange_bed:
+    buy: 0
+    sell: -1
+  orange_bundle:
+    buy: 0
+    sell: -1
+  orange_candle:
+    buy: 0
+    sell: -1
+  orange_carpet:
+    buy: 0
+    sell: -1
+  orange_concrete:
+    buy: 0
+    sell: -1
+  orange_concrete_powder:
+    buy: 0
+    sell: -1
+  orange_dye:
+    buy: 0
+    sell: -1
+  orange_glazed_terracotta:
+    buy: 0
+    sell: -1
+  orange_harness:
+    buy: 0
+    sell: -1
+  orange_shulker_box:
+    buy: 0
+    sell: -1
+  orange_stained_glass:
+    buy: 0
+    sell: -1
+  orange_stained_glass_pane:
+    buy: 0
+    sell: -1
+  orange_terracotta:
+    buy: 0
+    sell: -1
+  orange_tulip:
+    buy: 0
+    sell: -1
+  orange_wool:
+    buy: 0
+    sell: -1
+  oxeye_daisy:
+    buy: 0
+    sell: -1
+  oxidized_chiseled_copper:
+    buy: 0
+    sell: -1
+  oxidized_copper:
+    buy: 0
+    sell: -1
+  oxidized_copper_bars:
+    buy: 0
+    sell: -1
+  oxidized_copper_bulb:
+    buy: 0
+    sell: -1
+  oxidized_copper_chain:
+    buy: 0
+    sell: -1
+  oxidized_copper_chest:
+    buy: 0
+    sell: -1
+  oxidized_copper_door:
+    buy: 0
+    sell: -1
+  oxidized_copper_golem_statue:
+    buy: 0
+    sell: -1
+  oxidized_copper_grate:
+    buy: 0
+    sell: -1
+  oxidized_copper_lantern:
+    buy: 0
+    sell: -1
+  oxidized_copper_trapdoor:
+    buy: 0
+    sell: -1
+  oxidized_cut_copper:
+    buy: 0
+    sell: -1
+  oxidized_cut_copper_slab:
+    buy: 0
+    sell: -1
+  oxidized_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  oxidized_lightning_rod:
+    buy: 0
+    sell: -1
+  packed_ice:
+    buy: 0
+    sell: -1
+  packed_mud:
+    buy: 0
+    sell: -1
+  painting:
+    buy: 0
+    sell: -1
+  pale_hanging_moss:
+    buy: 0
+    sell: -1
+  pale_moss_block:
+    buy: 0
+    sell: -1
+  pale_moss_carpet:
+    buy: 0
+    sell: -1
+  pale_oak_boat:
+    buy: 0
+    sell: -1
+  pale_oak_button:
+    buy: 0
+    sell: -1
+  pale_oak_chest_boat:
+    buy: 0
+    sell: -1
+  pale_oak_door:
+    buy: 0
+    sell: -1
+  pale_oak_fence:
+    buy: 0
+    sell: -1
+  pale_oak_fence_gate:
+    buy: 0
+    sell: -1
+  pale_oak_hanging_sign:
+    buy: 0
+    sell: -1
+  pale_oak_leaves:
+    buy: 0
+    sell: -1
+  pale_oak_log:
+    buy: 0
+    sell: -1
+  pale_oak_planks:
+    buy: 0
+    sell: -1
+  pale_oak_pressure_plate:
+    buy: 0
+    sell: -1
+  pale_oak_sapling:
+    buy: 0
+    sell: -1
+  pale_oak_shelf:
+    buy: 0
+    sell: -1
+  pale_oak_sign:
+    buy: 0
+    sell: -1
+  pale_oak_slab:
+    buy: 0
+    sell: -1
+  pale_oak_stairs:
+    buy: 0
+    sell: -1
+  pale_oak_trapdoor:
+    buy: 0
+    sell: -1
+  pale_oak_wood:
+    buy: 0
+    sell: -1
+  panda_spawn_egg:
+    buy: 0
+    sell: -1
+  paper:
+    buy: 0
+    sell: -1
+  parched_spawn_egg:
+    buy: 0
+    sell: -1
+  parrot_spawn_egg:
+    buy: 0
+    sell: -1
+  pearlescent_froglight:
+    buy: 0
+    sell: -1
+  peony:
+    buy: 0
+    sell: -1
+  petrified_oak_slab:
+    buy: 0
+    sell: -1
+  phantom_membrane:
+    buy: 0
+    sell: -1
+  phantom_spawn_egg:
+    buy: 0
+    sell: -1
+  pig_spawn_egg:
+    buy: 0
+    sell: -1
+  piglin_banner_pattern:
+    buy: 0
+    sell: -1
+  piglin_brute_spawn_egg:
+    buy: 0
+    sell: -1
+  piglin_head:
+    buy: 0
+    sell: -1
+  piglin_spawn_egg:
+    buy: 0
+    sell: -1
+  pillager_spawn_egg:
+    buy: 0
+    sell: -1
+  pink_banner:
+    buy: 0
+    sell: -1
+  pink_bed:
+    buy: 0
+    sell: -1
+  pink_bundle:
+    buy: 0
+    sell: -1
+  pink_candle:
+    buy: 0
+    sell: -1
+  pink_carpet:
+    buy: 0
+    sell: -1
+  pink_concrete:
+    buy: 0
+    sell: -1
+  pink_concrete_powder:
+    buy: 0
+    sell: -1
+  pink_dye:
+    buy: 0
+    sell: -1
+  pink_glazed_terracotta:
+    buy: 0
+    sell: -1
+  pink_harness:
+    buy: 0
+    sell: -1
+  pink_petals:
+    buy: 0
+    sell: -1
+  pink_shulker_box:
+    buy: 0
+    sell: -1
+  pink_stained_glass:
+    buy: 0
+    sell: -1
+  pink_stained_glass_pane:
+    buy: 0
+    sell: -1
+  pink_terracotta:
+    buy: 0
+    sell: -1
+  pink_tulip:
+    buy: 0
+    sell: -1
+  pink_wool:
+    buy: 0
+    sell: -1
+  piston:
+    buy: 0
+    sell: -1
+  pitcher_plant:
+    buy: 0
+    sell: -1
+  pitcher_pod:
+    buy: 0
+    sell: -1
+  player_head:
+    buy: 0
+    sell: -1
+  plenty_pottery_sherd:
+    buy: 0
+    sell: -1
+  podzol:
+    buy: 0
+    sell: -1
+  pointed_dripstone:
+    buy: 0
+    sell: -1
+  poisonous_potato:
+    buy: 0
+    sell: -1
+  polar_bear_spawn_egg:
+    buy: 0
+    sell: -1
+  polished_andesite:
+    buy: 0
+    sell: -1
+  polished_andesite_slab:
+    buy: 0
+    sell: -1
+  polished_andesite_stairs:
+    buy: 0
+    sell: -1
+  polished_basalt:
+    buy: 0
+    sell: -1
+  polished_blackstone:
+    buy: 0
+    sell: -1
+  polished_blackstone_brick_slab:
+    buy: 0
+    sell: -1
+  polished_blackstone_brick_stairs:
+    buy: 0
+    sell: -1
+  polished_blackstone_brick_wall:
+    buy: 0
+    sell: -1
+  polished_blackstone_bricks:
+    buy: 0
+    sell: -1
+  polished_blackstone_button:
+    buy: 0
+    sell: -1
+  polished_blackstone_pressure_plate:
+    buy: 0
+    sell: -1
+  polished_blackstone_slab:
+    buy: 0
+    sell: -1
+  polished_blackstone_stairs:
+    buy: 0
+    sell: -1
+  polished_blackstone_wall:
+    buy: 0
+    sell: -1
+  polished_deepslate:
+    buy: 0
+    sell: -1
+  polished_deepslate_slab:
+    buy: 0
+    sell: -1
+  polished_deepslate_stairs:
+    buy: 0
+    sell: -1
+  polished_deepslate_wall:
+    buy: 0
+    sell: -1
+  polished_diorite:
+    buy: 0
+    sell: -1
+  polished_diorite_slab:
+    buy: 0
+    sell: -1
+  polished_diorite_stairs:
+    buy: 0
+    sell: -1
+  polished_granite:
+    buy: 0
+    sell: -1
+  polished_granite_slab:
+    buy: 0
+    sell: -1
+  polished_granite_stairs:
+    buy: 0
+    sell: -1
+  polished_tuff:
+    buy: 0
+    sell: -1
+  polished_tuff_slab:
+    buy: 0
+    sell: -1
+  polished_tuff_stairs:
+    buy: 0
+    sell: -1
+  polished_tuff_wall:
+    buy: 0
+    sell: -1
+  popped_chorus_fruit:
+    buy: 0
+    sell: -1
+  poppy:
+    buy: 0
+    sell: -1
+  porkchop:
+    buy: 0
+    sell: -1
+  potato:
+    buy: 0
+    sell: -1
+  potion:
+    buy: 0
+    sell: -1
+  powder_snow_bucket:
+    buy: 0
+    sell: -1
+  powered_rail:
+    buy: 0
+    sell: -1
+  prismarine:
+    buy: 0
+    sell: -1
+  prismarine_brick_slab:
+    buy: 0
+    sell: -1
+  prismarine_brick_stairs:
+    buy: 0
+    sell: -1
+  prismarine_bricks:
+    buy: 0
+    sell: -1
+  prismarine_crystals:
+    buy: 0
+    sell: -1
+  prismarine_shard:
+    buy: 0
+    sell: -1
+  prismarine_slab:
+    buy: 0
+    sell: -1
+  prismarine_stairs:
+    buy: 0
+    sell: -1
+  prismarine_wall:
+    buy: 0
+    sell: -1
+  prize_pottery_sherd:
+    buy: 0
+    sell: -1
+  pufferfish:
+    buy: 0
+    sell: -1
+  pufferfish_bucket:
+    buy: 0
+    sell: -1
+  pufferfish_spawn_egg:
+    buy: 0
+    sell: -1
+  pumpkin:
+    buy: 0
+    sell: -1
+  pumpkin_pie:
+    buy: 0
+    sell: -1
+  pumpkin_seeds:
+    buy: 0
+    sell: -1
+  purple_banner:
+    buy: 0
+    sell: -1
+  purple_bed:
+    buy: 0
+    sell: -1
+  purple_bundle:
+    buy: 0
+    sell: -1
+  purple_candle:
+    buy: 0
+    sell: -1
+  purple_carpet:
+    buy: 0
+    sell: -1
+  purple_concrete:
+    buy: 0
+    sell: -1
+  purple_concrete_powder:
+    buy: 0
+    sell: -1
+  purple_dye:
+    buy: 0
+    sell: -1
+  purple_glazed_terracotta:
+    buy: 0
+    sell: -1
+  purple_harness:
+    buy: 0
+    sell: -1
+  purple_shulker_box:
+    buy: 0
+    sell: -1
+  purple_stained_glass:
+    buy: 0
+    sell: -1
+  purple_stained_glass_pane:
+    buy: 0
+    sell: -1
+  purple_terracotta:
+    buy: 0
+    sell: -1
+  purple_wool:
+    buy: 0
+    sell: -1
+  purpur_block:
+    buy: 0
+    sell: -1
+  purpur_pillar:
+    buy: 0
+    sell: -1
+  purpur_slab:
+    buy: 0
+    sell: -1
+  purpur_stairs:
+    buy: 0
+    sell: -1
+  quartz:
+    buy: 0
+    sell: -1
+  quartz_block:
+    buy: 0
+    sell: -1
+  quartz_bricks:
+    buy: 0
+    sell: -1
+  quartz_pillar:
+    buy: 0
+    sell: -1
+  quartz_slab:
+    buy: 0
+    sell: -1
+  quartz_stairs:
+    buy: 0
+    sell: -1
+  rabbit:
+    buy: 0
+    sell: -1
+  rabbit_foot:
+    buy: 0
+    sell: -1
+  rabbit_hide:
+    buy: 0
+    sell: -1
+  rabbit_spawn_egg:
+    buy: 0
+    sell: -1
+  rabbit_stew:
+    buy: 0
+    sell: -1
+  rail:
+    buy: 0
+    sell: -1
+  raiser_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  ravager_spawn_egg:
+    buy: 0
+    sell: -1
+  raw_copper:
+    buy: 0
+    sell: -1
+  raw_copper_block:
+    buy: 0
+    sell: -1
+  raw_gold:
+    buy: 0
+    sell: -1
+  raw_gold_block:
+    buy: 0
+    sell: -1
+  raw_iron:
+    buy: 0
+    sell: -1
+  raw_iron_block:
+    buy: 0
+    sell: -1
+  recovery_compass:
+    buy: 0
+    sell: -1
+  red_banner:
+    buy: 0
+    sell: -1
+  red_bed:
+    buy: 0
+    sell: -1
+  red_bundle:
+    buy: 0
+    sell: -1
+  red_candle:
+    buy: 0
+    sell: -1
+  red_carpet:
+    buy: 0
+    sell: -1
+  red_concrete:
+    buy: 0
+    sell: -1
+  red_concrete_powder:
+    buy: 0
+    sell: -1
+  red_dye:
+    buy: 0
+    sell: -1
+  red_glazed_terracotta:
+    buy: 0
+    sell: -1
+  red_harness:
+    buy: 0
+    sell: -1
+  red_mushroom:
+    buy: 0
+    sell: -1
+  red_mushroom_block:
+    buy: 0
+    sell: -1
+  red_nether_brick_slab:
+    buy: 0
+    sell: -1
+  red_nether_brick_stairs:
+    buy: 0
+    sell: -1
+  red_nether_brick_wall:
+    buy: 0
+    sell: -1
+  red_nether_bricks:
+    buy: 0
+    sell: -1
+  red_sand:
+    buy: 0
+    sell: -1
+  red_sandstone:
+    buy: 0
+    sell: -1
+  red_sandstone_slab:
+    buy: 0
+    sell: -1
+  red_sandstone_stairs:
+    buy: 0
+    sell: -1
+  red_sandstone_wall:
+    buy: 0
+    sell: -1
+  red_shulker_box:
+    buy: 0
+    sell: -1
+  red_stained_glass:
+    buy: 0
+    sell: -1
+  red_stained_glass_pane:
+    buy: 0
+    sell: -1
+  red_terracotta:
+    buy: 0
+    sell: -1
+  red_tulip:
+    buy: 0
+    sell: -1
+  red_wool:
+    buy: 0
+    sell: -1
+  redstone:
+    buy: 0
+    sell: -1
+  redstone_block:
+    buy: 0
+    sell: -1
+  redstone_lamp:
+    buy: 0
+    sell: -1
+  redstone_ore:
+    buy: 0
+    sell: -1
+  redstone_torch:
+    buy: 0
+    sell: -1
+  reinforced_deepslate:
+    buy: 0
+    sell: -1
+  repeater:
+    buy: 0
+    sell: -1
+  repeating_command_block:
+    buy: 0
+    sell: -1
+  resin_block:
+    buy: 0
+    sell: -1
+  resin_brick:
+    buy: 0
+    sell: -1
+  resin_brick_slab:
+    buy: 0
+    sell: -1
+  resin_brick_stairs:
+    buy: 0
+    sell: -1
+  resin_brick_wall:
+    buy: 0
+    sell: -1
+  resin_bricks:
+    buy: 0
+    sell: -1
+  resin_clump:
+    buy: 0
+    sell: -1
+  respawn_anchor:
+    buy: 0
+    sell: -1
+  rib_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  rooted_dirt:
+    buy: 0
+    sell: -1
+  rose_bush:
+    buy: 0
+    sell: -1
+  rotten_flesh:
+    buy: 0
+    sell: -1
+  saddle:
+    buy: 0
+    sell: -1
+  salmon:
+    buy: 0
+    sell: -1
+  salmon_bucket:
+    buy: 0
+    sell: -1
+  salmon_spawn_egg:
+    buy: 0
+    sell: -1
+  sand:
+    buy: 0
+    sell: -1
+  sandstone:
+    buy: 0
+    sell: -1
+  sandstone_slab:
+    buy: 0
+    sell: -1
+  sandstone_stairs:
+    buy: 0
+    sell: -1
+  sandstone_wall:
+    buy: 0
+    sell: -1
+  scaffolding:
+    buy: 0
+    sell: -1
+  scrape_pottery_sherd:
+    buy: 0
+    sell: -1
+  sculk:
+    buy: 0
+    sell: -1
+  sculk_catalyst:
+    buy: 0
+    sell: -1
+  sculk_sensor:
+    buy: 0
+    sell: -1
+  sculk_shrieker:
+    buy: 0
+    sell: -1
+  sculk_vein:
+    buy: 0
+    sell: -1
+  sea_lantern:
+    buy: 0
+    sell: -1
+  sea_pickle:
+    buy: 0
+    sell: -1
+  seagrass:
+    buy: 0
+    sell: -1
+  sentry_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  shaper_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  sheaf_pottery_sherd:
+    buy: 0
+    sell: -1
+  shears:
+    buy: 0
+    sell: -1
+  sheep_spawn_egg:
+    buy: 0
+    sell: -1
+  shelter_pottery_sherd:
+    buy: 0
+    sell: -1
+  shield:
+    buy: 0
+    sell: -1
+  short_dry_grass:
+    buy: 0
+    sell: -1
+  short_grass:
+    buy: 0
+    sell: -1
+  shroomlight:
+    buy: 0
+    sell: -1
+  shulker_box:
+    buy: 0
+    sell: -1
+  shulker_shell:
+    buy: 0
+    sell: -1
+  shulker_spawn_egg:
+    buy: 0
+    sell: -1
+  silence_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  silverfish_spawn_egg:
+    buy: 0
+    sell: -1
+  skeleton_horse_spawn_egg:
+    buy: 0
+    sell: -1
+  skeleton_skull:
+    buy: 0
+    sell: -1
+  skeleton_spawn_egg:
+    buy: 0
+    sell: -1
+  skull_banner_pattern:
+    buy: 0
+    sell: -1
+  skull_pottery_sherd:
+    buy: 0
+    sell: -1
+  slime_ball:
+    buy: 0
+    sell: -1
+  slime_block:
+    buy: 0
+    sell: -1
+  slime_spawn_egg:
+    buy: 0
+    sell: -1
+  small_amethyst_bud:
+    buy: 0
+    sell: -1
+  small_dripleaf:
+    buy: 0
+    sell: -1
+  smithing_table:
+    buy: 0
+    sell: -1
+  smoker:
+    buy: 0
+    sell: -1
+  smooth_basalt:
+    buy: 0
+    sell: -1
+  smooth_quartz:
+    buy: 0
+    sell: -1
+  smooth_quartz_slab:
+    buy: 0
+    sell: -1
+  smooth_quartz_stairs:
+    buy: 0
+    sell: -1
+  smooth_red_sandstone:
+    buy: 0
+    sell: -1
+  smooth_red_sandstone_slab:
+    buy: 0
+    sell: -1
+  smooth_red_sandstone_stairs:
+    buy: 0
+    sell: -1
+  smooth_sandstone:
+    buy: 0
+    sell: -1
+  smooth_sandstone_slab:
+    buy: 0
+    sell: -1
+  smooth_sandstone_stairs:
+    buy: 0
+    sell: -1
+  smooth_stone:
+    buy: 0
+    sell: -1
+  smooth_stone_slab:
+    buy: 0
+    sell: -1
+  sniffer_egg:
+    buy: 0
+    sell: -1
+  sniffer_spawn_egg:
+    buy: 0
+    sell: -1
+  snort_pottery_sherd:
+    buy: 0
+    sell: -1
+  snout_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  snow:
+    buy: 0
+    sell: -1
+  snow_block:
+    buy: 0
+    sell: -1
+  snow_golem_spawn_egg:
+    buy: 0
+    sell: -1
+  snowball:
+    buy: 0
+    sell: -1
+  soul_campfire:
+    buy: 0
+    sell: -1
+  soul_lantern:
+    buy: 0
+    sell: -1
+  soul_sand:
+    buy: 0
+    sell: -1
+  soul_soil:
+    buy: 0
+    sell: -1
+  soul_torch:
+    buy: 0
+    sell: -1
+  spawner:
+    buy: 0
+    sell: -1
+  spectral_arrow:
+    buy: 0
+    sell: -1
+  spider_eye:
+    buy: 0
+    sell: -1
+  spider_spawn_egg:
+    buy: 0
+    sell: -1
+  spire_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  splash_potion:
+    buy: 0
+    sell: -1
+  sponge:
+    buy: 0
+    sell: -1
+  spore_blossom:
+    buy: 0
+    sell: -1
+  spruce_boat:
+    buy: 0
+    sell: -1
+  spruce_button:
+    buy: 0
+    sell: -1
+  spruce_chest_boat:
+    buy: 0
+    sell: -1
+  spruce_door:
+    buy: 0
+    sell: -1
+  spruce_fence:
+    buy: 0
+    sell: -1
+  spruce_fence_gate:
+    buy: 0
+    sell: -1
+  spruce_hanging_sign:
+    buy: 0
+    sell: -1
+  spruce_leaves:
+    buy: 0
+    sell: -1
+  spruce_log:
+    buy: 0
+    sell: -1
+  spruce_planks:
+    buy: 0
+    sell: -1
+  spruce_pressure_plate:
+    buy: 0
+    sell: -1
+  spruce_sapling:
+    buy: 0
+    sell: -1
+  spruce_shelf:
+    buy: 0
+    sell: -1
+  spruce_sign:
+    buy: 0
+    sell: -1
+  spruce_slab:
+    buy: 0
+    sell: -1
+  spruce_stairs:
+    buy: 0
+    sell: -1
+  spruce_trapdoor:
+    buy: 0
+    sell: -1
+  spruce_wood:
+    buy: 0
+    sell: -1
+  spyglass:
+    buy: 0
+    sell: -1
+  squid_spawn_egg:
+    buy: 0
+    sell: -1
+  stick:
+    buy: 0
+    sell: -1
+  sticky_piston:
+    buy: 0
+    sell: -1
+  stone:
+    buy: 0
+    sell: -1
+  stone_axe:
+    buy: 0
+    sell: -1
+  stone_brick_slab:
+    buy: 0
+    sell: -1
+  stone_brick_stairs:
+    buy: 0
+    sell: -1
+  stone_brick_wall:
+    buy: 0
+    sell: -1
+  stone_bricks:
+    buy: 0
+    sell: -1
+  stone_button:
+    buy: 0
+    sell: -1
+  stone_hoe:
+    buy: 0
+    sell: -1
+  stone_pickaxe:
+    buy: 0
+    sell: -1
+  stone_pressure_plate:
+    buy: 0
+    sell: -1
+  stone_shovel:
+    buy: 0
+    sell: -1
+  stone_slab:
+    buy: 0
+    sell: -1
+  stone_spear:
+    buy: 0
+    sell: -1
+  stone_stairs:
+    buy: 0
+    sell: -1
+  stone_sword:
+    buy: 0
+    sell: -1
+  stonecutter:
+    buy: 0
+    sell: -1
+  stray_spawn_egg:
+    buy: 0
+    sell: -1
+  strider_spawn_egg:
+    buy: 0
+    sell: -1
+  string:
+    buy: 0
+    sell: -1
+  stripped_acacia_log:
+    buy: 0
+    sell: -1
+  stripped_acacia_wood:
+    buy: 0
+    sell: -1
+  stripped_bamboo_block:
+    buy: 0
+    sell: -1
+  stripped_birch_log:
+    buy: 0
+    sell: -1
+  stripped_birch_wood:
+    buy: 0
+    sell: -1
+  stripped_cherry_log:
+    buy: 0
+    sell: -1
+  stripped_cherry_wood:
+    buy: 0
+    sell: -1
+  stripped_crimson_hyphae:
+    buy: 0
+    sell: -1
+  stripped_crimson_stem:
+    buy: 0
+    sell: -1
+  stripped_dark_oak_log:
+    buy: 0
+    sell: -1
+  stripped_dark_oak_wood:
+    buy: 0
+    sell: -1
+  stripped_jungle_log:
+    buy: 0
+    sell: -1
+  stripped_jungle_wood:
+    buy: 0
+    sell: -1
+  stripped_mangrove_log:
+    buy: 0
+    sell: -1
+  stripped_mangrove_wood:
+    buy: 0
+    sell: -1
+  stripped_oak_log:
+    buy: 0
+    sell: -1
+  stripped_oak_wood:
+    buy: 0
+    sell: -1
+  stripped_pale_oak_log:
+    buy: 0
+    sell: -1
+  stripped_pale_oak_wood:
+    buy: 0
+    sell: -1
+  stripped_spruce_log:
+    buy: 0
+    sell: -1
+  stripped_spruce_wood:
+    buy: 0
+    sell: -1
+  stripped_warped_hyphae:
+    buy: 0
+    sell: -1
+  stripped_warped_stem:
+    buy: 0
+    sell: -1
+  structure_block:
+    buy: 0
+    sell: -1
+  structure_void:
+    buy: 0
+    sell: -1
+  sugar:
+    buy: 0
+    sell: -1
+  sugar_cane:
+    buy: 0
+    sell: -1
+  sunflower:
+    buy: 0
+    sell: -1
+  suspicious_gravel:
+    buy: 0
+    sell: -1
+  suspicious_sand:
+    buy: 0
+    sell: -1
+  suspicious_stew:
+    buy: 0
+    sell: -1
+  sweet_berries:
+    buy: 0
+    sell: -1
+  tadpole_bucket:
+    buy: 0
+    sell: -1
+  tadpole_spawn_egg:
+    buy: 0
+    sell: -1
+  tall_dry_grass:
+    buy: 0
+    sell: -1
+  tall_grass:
+    buy: 0
+    sell: -1
+  target:
+    buy: 0
+    sell: -1
+  terracotta:
+    buy: 0
+    sell: -1
+  test_block:
+    buy: 0
+    sell: -1
+  test_instance_block:
+    buy: 0
+    sell: -1
+  tide_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  tinted_glass:
+    buy: 0
+    sell: -1
+  tipped_arrow:
+    buy: 0
+    sell: -1
+  tnt:
+    buy: 0
+    sell: -1
+  tnt_minecart:
+    buy: 0
+    sell: -1
+  torch:
+    buy: 0
+    sell: -1
+  torchflower:
+    buy: 0
+    sell: -1
+  torchflower_seeds:
+    buy: 0
+    sell: -1
+  totem_of_undying:
+    buy: 0
+    sell: -1
+  trader_llama_spawn_egg:
+    buy: 0
+    sell: -1
+  trapped_chest:
+    buy: 0
+    sell: -1
+  trial_key:
+    buy: 0
+    sell: -1
+  trial_spawner:
+    buy: 0
+    sell: -1
+  trident:
+    buy: 0
+    sell: -1
+  tripwire_hook:
+    buy: 0
+    sell: -1
+  tropical_fish:
+    buy: 0
+    sell: -1
+  tropical_fish_bucket:
+    buy: 0
+    sell: -1
+  tropical_fish_spawn_egg:
+    buy: 0
+    sell: -1
+  tube_coral:
+    buy: 0
+    sell: -1
+  tube_coral_block:
+    buy: 0
+    sell: -1
+  tube_coral_fan:
+    buy: 0
+    sell: -1
+  tuff:
+    buy: 0
+    sell: -1
+  tuff_brick_slab:
+    buy: 0
+    sell: -1
+  tuff_brick_stairs:
+    buy: 0
+    sell: -1
+  tuff_brick_wall:
+    buy: 0
+    sell: -1
+  tuff_bricks:
+    buy: 0
+    sell: -1
+  tuff_slab:
+    buy: 0
+    sell: -1
+  tuff_stairs:
+    buy: 0
+    sell: -1
+  tuff_wall:
+    buy: 0
+    sell: -1
+  turtle_egg:
+    buy: 0
+    sell: -1
+  turtle_helmet:
+    buy: 0
+    sell: -1
+  turtle_scute:
+    buy: 0
+    sell: -1
+  turtle_spawn_egg:
+    buy: 0
+    sell: -1
+  twisting_vines:
+    buy: 0
+    sell: -1
+  vault:
+    buy: 0
+    sell: -1
+  verdant_froglight:
+    buy: 0
+    sell: -1
+  vex_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  vex_spawn_egg:
+    buy: 0
+    sell: -1
+  villager_spawn_egg:
+    buy: 0
+    sell: -1
+  vindicator_spawn_egg:
+    buy: 0
+    sell: -1
+  vine:
+    buy: 0
+    sell: -1
+  wandering_trader_spawn_egg:
+    buy: 0
+    sell: -1
+  ward_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  warden_spawn_egg:
+    buy: 0
+    sell: -1
+  warped_button:
+    buy: 0
+    sell: -1
+  warped_door:
+    buy: 0
+    sell: -1
+  warped_fence:
+    buy: 0
+    sell: -1
+  warped_fence_gate:
+    buy: 0
+    sell: -1
+  warped_fungus:
+    buy: 0
+    sell: -1
+  warped_fungus_on_a_stick:
+    buy: 0
+    sell: -1
+  warped_hanging_sign:
+    buy: 0
+    sell: -1
+  warped_hyphae:
+    buy: 0
+    sell: -1
+  warped_nylium:
+    buy: 0
+    sell: -1
+  warped_planks:
+    buy: 0
+    sell: -1
+  warped_pressure_plate:
+    buy: 0
+    sell: -1
+  warped_roots:
+    buy: 0
+    sell: -1
+  warped_shelf:
+    buy: 0
+    sell: -1
+  warped_sign:
+    buy: 0
+    sell: -1
+  warped_slab:
+    buy: 0
+    sell: -1
+  warped_stairs:
+    buy: 0
+    sell: -1
+  warped_stem:
+    buy: 0
+    sell: -1
+  warped_trapdoor:
+    buy: 0
+    sell: -1
+  warped_wart_block:
+    buy: 0
+    sell: -1
+  water_bucket:
+    buy: 0
+    sell: -1
+  waxed_chiseled_copper:
+    buy: 0
+    sell: -1
+  waxed_copper_bars:
+    buy: 0
+    sell: -1
+  waxed_copper_block:
+    buy: 0
+    sell: -1
+  waxed_copper_bulb:
+    buy: 0
+    sell: -1
+  waxed_copper_chain:
+    buy: 0
+    sell: -1
+  waxed_copper_chest:
+    buy: 0
+    sell: -1
+  waxed_copper_door:
+    buy: 0
+    sell: -1
+  waxed_copper_golem_statue:
+    buy: 0
+    sell: -1
+  waxed_copper_grate:
+    buy: 0
+    sell: -1
+  waxed_copper_lantern:
+    buy: 0
+    sell: -1
+  waxed_copper_trapdoor:
+    buy: 0
+    sell: -1
+  waxed_cut_copper:
+    buy: 0
+    sell: -1
+  waxed_cut_copper_slab:
+    buy: 0
+    sell: -1
+  waxed_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  waxed_exposed_chiseled_copper:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_bars:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_bulb:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_chain:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_chest:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_door:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_golem_statue:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_grate:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_lantern:
+    buy: 0
+    sell: -1
+  waxed_exposed_copper_trapdoor:
+    buy: 0
+    sell: -1
+  waxed_exposed_cut_copper:
+    buy: 0
+    sell: -1
+  waxed_exposed_cut_copper_slab:
+    buy: 0
+    sell: -1
+  waxed_exposed_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  waxed_exposed_lightning_rod:
+    buy: 0
+    sell: -1
+  waxed_lightning_rod:
+    buy: 0
+    sell: -1
+  waxed_oxidized_chiseled_copper:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_bars:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_bulb:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_chain:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_chest:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_door:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_golem_statue:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_grate:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_lantern:
+    buy: 0
+    sell: -1
+  waxed_oxidized_copper_trapdoor:
+    buy: 0
+    sell: -1
+  waxed_oxidized_cut_copper:
+    buy: 0
+    sell: -1
+  waxed_oxidized_cut_copper_slab:
+    buy: 0
+    sell: -1
+  waxed_oxidized_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  waxed_oxidized_lightning_rod:
+    buy: 0
+    sell: -1
+  waxed_weathered_chiseled_copper:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_bars:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_bulb:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_chain:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_chest:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_door:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_golem_statue:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_grate:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_lantern:
+    buy: 0
+    sell: -1
+  waxed_weathered_copper_trapdoor:
+    buy: 0
+    sell: -1
+  waxed_weathered_cut_copper:
+    buy: 0
+    sell: -1
+  waxed_weathered_cut_copper_slab:
+    buy: 0
+    sell: -1
+  waxed_weathered_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  waxed_weathered_lightning_rod:
+    buy: 0
+    sell: -1
+  wayfinder_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  weathered_chiseled_copper:
+    buy: 0
+    sell: -1
+  weathered_copper:
+    buy: 0
+    sell: -1
+  weathered_copper_bars:
+    buy: 0
+    sell: -1
+  weathered_copper_bulb:
+    buy: 0
+    sell: -1
+  weathered_copper_chain:
+    buy: 0
+    sell: -1
+  weathered_copper_chest:
+    buy: 0
+    sell: -1
+  weathered_copper_door:
+    buy: 0
+    sell: -1
+  weathered_copper_golem_statue:
+    buy: 0
+    sell: -1
+  weathered_copper_grate:
+    buy: 0
+    sell: -1
+  weathered_copper_lantern:
+    buy: 0
+    sell: -1
+  weathered_copper_trapdoor:
+    buy: 0
+    sell: -1
+  weathered_cut_copper:
+    buy: 0
+    sell: -1
+  weathered_cut_copper_slab:
+    buy: 0
+    sell: -1
+  weathered_cut_copper_stairs:
+    buy: 0
+    sell: -1
+  weathered_lightning_rod:
+    buy: 0
+    sell: -1
+  weeping_vines:
+    buy: 0
+    sell: -1
+  wet_sponge:
+    buy: 0
+    sell: -1
+  wheat:
+    buy: 0
+    sell: -1
+  wheat_seeds:
+    buy: 0
+    sell: -1
+  white_banner:
+    buy: 0
+    sell: -1
+  white_bed:
+    buy: 0
+    sell: -1
+  white_bundle:
+    buy: 0
+    sell: -1
+  white_candle:
+    buy: 0
+    sell: -1
+  white_carpet:
+    buy: 0
+    sell: -1
+  white_concrete:
+    buy: 0
+    sell: -1
+  white_concrete_powder:
+    buy: 0
+    sell: -1
+  white_dye:
+    buy: 0
+    sell: -1
+  white_glazed_terracotta:
+    buy: 0
+    sell: -1
+  white_harness:
+    buy: 0
+    sell: -1
+  white_shulker_box:
+    buy: 0
+    sell: -1
+  white_stained_glass:
+    buy: 0
+    sell: -1
+  white_stained_glass_pane:
+    buy: 0
+    sell: -1
+  white_terracotta:
+    buy: 0
+    sell: -1
+  white_tulip:
+    buy: 0
+    sell: -1
+  white_wool:
+    buy: 0
+    sell: -1
+  wild_armor_trim_smithing_template:
+    buy: 0
+    sell: -1
+  wildflowers:
+    buy: 0
+    sell: -1
+  wind_charge:
+    buy: 0
+    sell: -1
+  witch_spawn_egg:
+    buy: 0
+    sell: -1
+  wither_rose:
+    buy: 0
+    sell: -1
+  wither_skeleton_skull:
+    buy: 0
+    sell: -1
+  wither_skeleton_spawn_egg:
+    buy: 0
+    sell: -1
+  wither_spawn_egg:
+    buy: 0
+    sell: -1
+  wolf_armor:
+    buy: 0
+    sell: -1
+  wolf_spawn_egg:
+    buy: 0
+    sell: -1
+  wooden_axe:
+    buy: 0
+    sell: -1
+  wooden_hoe:
+    buy: 0
+    sell: -1
+  wooden_pickaxe:
+    buy: 0
+    sell: -1
+  wooden_shovel:
+    buy: 0
+    sell: -1
+  wooden_spear:
+    buy: 0
+    sell: -1
+  wooden_sword:
+    buy: 0
+    sell: -1
+  writable_book:
+    buy: 0
+    sell: -1
+  written_book:
+    buy: 0
+    sell: -1
+  yellow_banner:
+    buy: 0
+    sell: -1
+  yellow_bed:
+    buy: 0
+    sell: -1
+  yellow_bundle:
+    buy: 0
+    sell: -1
+  yellow_candle:
+    buy: 0
+    sell: -1
+  yellow_carpet:
+    buy: 0
+    sell: -1
+  yellow_concrete:
+    buy: 0
+    sell: -1
+  yellow_concrete_powder:
+    buy: 0
+    sell: -1
+  yellow_dye:
+    buy: 0
+    sell: -1
+  yellow_glazed_terracotta:
+    buy: 0
+    sell: -1
+  yellow_harness:
+    buy: 0
+    sell: -1
+  yellow_shulker_box:
+    buy: 0
+    sell: -1
+  yellow_stained_glass:
+    buy: 0
+    sell: -1
+  yellow_stained_glass_pane:
+    buy: 0
+    sell: -1
+  yellow_terracotta:
+    buy: 0
+    sell: -1
+  yellow_wool:
+    buy: 0
+    sell: -1
+  zoglin_spawn_egg:
+    buy: 0
+    sell: -1
+  zombie_head:
+    buy: 0
+    sell: -1
+  zombie_horse_spawn_egg:
+    buy: 0
+    sell: -1
+  zombie_nautilus_spawn_egg:
+    buy: 0
+    sell: -1
+  zombie_spawn_egg:
+    buy: 0
+    sell: -1
+  zombie_villager_spawn_egg:
+    buy: 0
+    sell: -1
+  zombified_piglin_spawn_egg:
+    buy: 0
+    sell: -1
