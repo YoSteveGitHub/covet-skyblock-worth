@@ -1,6 +1,6 @@
 worth:
   acacia_boat:
-    buy: 0
+    buy: 10000
     sell: -1
   acacia_button:
     buy: 0
